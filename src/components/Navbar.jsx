@@ -58,7 +58,7 @@ const Navbar = () => {
 
           </div>  
                 {/* for mobile device  */}
-              <div className='md:hidden ml-20 relative'>
+              <div className='block md:hidden ml-4 md:ml-20 relative'>
                     <button className="btn" onClick={toggleMenu} >
                         <span className="icon">
                             <svg viewBox="0 0 175 80" width="40" height="40">
