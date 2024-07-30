@@ -15,7 +15,7 @@ const Resume = () => {
       <p className="mt-8 text-xl md:text-4xl text-center">
           I'm a passionate and dedicated fresher skilled in <b>JavaScript</b>, <b>React</b>, and <b>Node.js</b>.
            Eager to apply my knowledge and learn new technologies in a dynamic work environment. 
-            have a strong foundation in web development and am highly motivated to contribute to team success. 
+            Have a strong foundation in web development and am highly motivated to contribute to team success. 
             Ready to take on new challenges and grow as a developer.
         </p>
     </div>
@@ -35,7 +35,7 @@ const Resume = () => {
       </div>
          </div>
 
-    <div className='p-16'>
+    <div className='p-8 md:p-16'>
       <h1 className='text-4xl font-semibold'> Software Skills</h1>
       <div className=' grid md:grid-cols-3 grid-cols-2 gap-10 p-12 text-2xl '>
         <span><b>Html5</b></span>
